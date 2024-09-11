@@ -22,7 +22,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://github.com/Ekechi123/HelloWorld.git
 
 GIF created with ...  
 <!-- Recommended tools:
