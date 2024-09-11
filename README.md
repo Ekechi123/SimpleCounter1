@@ -10,8 +10,8 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can see a number displayed on the screen. The number starts at 0.
-* [ ] User can tap on a button to see the number displayed increase by 1.
+* [x] User can see a number displayed on the screen. The number starts at 0.
+* [x] User can tap on a button to see the number displayed increase by 1.
 
 
 The following **optional** features are implemented:
